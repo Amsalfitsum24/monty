@@ -27,18 +27,3 @@ int main(int argc, char **argv)
 	fclose(script_fd);
 	return (exit_code);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
